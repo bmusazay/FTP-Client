@@ -1,6 +1,5 @@
-// CSS 432
 // Ahmed Musazay
-// Final Project : Network Application
+// Network Design
 //
 // Implements a ftp client program based on RFC 959 file transfer protocol.
 
